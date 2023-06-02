@@ -1,0 +1,3 @@
+C:/LabsCpp/Test_Discrete_Maths/cmake-build-debug/CMakeFiles/Test_Discrete_Maths.dir
+C:/LabsCpp/Test_Discrete_Maths/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/LabsCpp/Test_Discrete_Maths/cmake-build-debug/CMakeFiles/rebuild_cache.dir

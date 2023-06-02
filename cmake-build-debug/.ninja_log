@@ -1,0 +1,15 @@
+# ninja log v5
+3	68	7073191774573009	CMakeFiles/Test_Discrete_Maths.dir/DFS_Find_Comps.cpp.obj	d6eb25e66f504fba
+3	105	7073208217556989	CMakeFiles/Test_Discrete_Maths.dir/Paths_Ford_Bellman.cpp.obj	e35f0fdf91bc51e9
+1137	1368	7073586065746924	Test_Discrete_Maths.exe	d3bd9caf65685146
+3	114	7073199370817781	CMakeFiles/Test_Discrete_Maths.dir/MST_Kruskal.cpp.obj	18929c667ff5b66
+10	72	7073197050206816	CMakeFiles/Test_Discrete_Maths.dir/DFS_Find_Strong_Comps.cpp.obj	8175e89582611837
+7	153	7073202552488256	CMakeFiles/Test_Discrete_Maths.dir/Paths_Floyd_Warshall.cpp.obj	42cd6d99d3eadcef
+15	1136	7073586062665855	CMakeFiles/Test_Discrete_Maths.dir/Tree_Diametr.cpp.obj	253d28485bd7976a
+10	119	7074185348972913	CMakeFiles/Test_Discrete_Maths.dir/Tree_Diametr.cpp.obj	253d28485bd7976a
+4	1763	7074185365399715	CMakeFiles/Test_Discrete_Maths.dir/Paths_Dijkstra.cpp.obj	91f0bbe68f8a6657
+1765	2046	7074185368179770	Test_Discrete_Maths.exe	c9c64afa1685f0f7
+4	1552	7074188017213880	CMakeFiles/Test_Discrete_Maths.dir/Paths_Dijkstra.cpp.obj	91f0bbe68f8a6657
+1553	1728	7074188018925590	Test_Discrete_Maths.exe	c9c64afa1685f0f7
+4	2195	7074188289386907	CMakeFiles/Test_Discrete_Maths.dir/Paths_Dijkstra.cpp.obj	91f0bbe68f8a6657
+2195	2386	7074188291276989	Test_Discrete_Maths.exe	c9c64afa1685f0f7
